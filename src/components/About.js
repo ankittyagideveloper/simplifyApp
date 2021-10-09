@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, Button } from "react-bootstrap";
-
+import aboutImage from "../Assests/icon-512.png";
 const About = () => {
   return (
     <div
@@ -16,7 +16,7 @@ const About = () => {
           width: "20rem",
         }}
       >
-        <Card.Img variant="top" src="/icon-512.png" alt="image" />
+        <Card.Img variant="top" src={aboutImage} alt="image" />
         <Card.Body>
           <Card.Title>Simplify</Card.Title>
           <Card.Text>An app to simplify our day to day life.</Card.Text>

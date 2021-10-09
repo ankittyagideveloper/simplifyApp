@@ -4,6 +4,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 import { LinkContainer } from "react-router-bootstrap";
 import "./Menu.scss";
 import "bootstrap/scss/bootstrap.scss";
+import logo from "../Assests/logo.png";
 
 const App = () => {
   return (
@@ -11,7 +12,7 @@ const App = () => {
       <Container>
         <LinkContainer to="/">
           <Navbar.Brand>
-            <img src={process.env.PUBLIC_URL + "/logo.png"} alt="logo" />
+            <img src={logo} alt="logo" />
           </Navbar.Brand>
         </LinkContainer>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
