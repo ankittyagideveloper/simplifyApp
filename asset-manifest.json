@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/simplifyApp/static/css/main.6bb52f08.chunk.css",
+    "main.js": "/simplifyApp/static/js/main.626dfd94.chunk.js",
+    "main.js.map": "/simplifyApp/static/js/main.626dfd94.chunk.js.map",
+    "runtime-main.js": "/simplifyApp/static/js/runtime-main.b39165a1.js",
+    "runtime-main.js.map": "/simplifyApp/static/js/runtime-main.b39165a1.js.map",
+    "static/css/2.44325718.chunk.css": "/simplifyApp/static/css/2.44325718.chunk.css",
+    "static/js/2.ae95fbd3.chunk.js": "/simplifyApp/static/js/2.ae95fbd3.chunk.js",
+    "static/js/2.ae95fbd3.chunk.js.map": "/simplifyApp/static/js/2.ae95fbd3.chunk.js.map",
+    "static/js/3.4f97581f.chunk.js": "/simplifyApp/static/js/3.4f97581f.chunk.js",
+    "static/js/3.4f97581f.chunk.js.map": "/simplifyApp/static/js/3.4f97581f.chunk.js.map",
+    "index.html": "/simplifyApp/index.html",
+    "service-worker.js": "/simplifyApp/service-worker.js",
+    "service-worker.js.map": "/simplifyApp/service-worker.js.map",
+    "static/css/2.44325718.chunk.css.map": "/simplifyApp/static/css/2.44325718.chunk.css.map",
+    "static/css/main.6bb52f08.chunk.css.map": "/simplifyApp/static/css/main.6bb52f08.chunk.css.map",
+    "static/js/2.ae95fbd3.chunk.js.LICENSE.txt": "/simplifyApp/static/js/2.ae95fbd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b39165a1.js",
+    "static/css/2.44325718.chunk.css",
+    "static/js/2.ae95fbd3.chunk.js",
+    "static/css/main.6bb52f08.chunk.css",
+    "static/js/main.626dfd94.chunk.js"
+  ]
+}
