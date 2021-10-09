@@ -1,6 +1,8 @@
 import React from "react";
 import { Card, Button } from "react-bootstrap";
 import "./Menu.scss";
+import contactImage from "../Assests/Contact.jpg";
+
 const Contact = () => {
   return (
     <div
@@ -16,7 +18,7 @@ const Contact = () => {
           width: "20rem",
         }}
       >
-        <Card.Img variant="top" src="/Contact.jpg" />
+        <Card.Img variant="top" src={contactImage} />
         <Card.Body>
           <Card.Title>Ankit Tyagi</Card.Title>
           <Card.Text>
