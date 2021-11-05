@@ -23,8 +23,8 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="io.github.ankittyagi206.twa"
-    android:versionCode="1"
-    android:versionName="1" >
+    android:versionCode="4"
+    android:versionName="4" >
 
     <uses-sdk
         android:minSdkVersion="19"

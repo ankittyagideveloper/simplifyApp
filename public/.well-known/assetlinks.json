@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "'io.github.ankittyagi206.twa",
+      "package_name": "io.github.ankittyagi206.twa",
       "sha256_cert_fingerprints": [
         "1F:B5:1B:7E:AF:CA:7F:16:CC:0B:D0:7D:9E:02:A3:CF:01:2B:47:18"
       ]

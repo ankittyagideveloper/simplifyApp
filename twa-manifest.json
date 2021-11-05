@@ -20,8 +20,8 @@
     "path": "C:\\Users\\ankit\\Desktop\\Project\\simplify\\simplifyApp\\android.keystore",
     "alias": "simplifyApp"
   },
-  "appVersionName": "1",
-  "appVersionCode": 1,
+  "appVersionName": "4",
+  "appVersionCode": 4,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
   "webManifestUrl": "https://ankittyagi206.github.io/simplifyApp/manifest.json",
@@ -35,5 +35,5 @@
   "orientation": "default",
   "fingerprints": [],
   "additionalTrustedOrigins": [],
-  "appVersion": "1"
+  "appVersion": "4"
 }
