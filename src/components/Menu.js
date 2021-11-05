@@ -25,6 +25,9 @@ const App = () => {
             <LinkContainer to="/contact">
               <Nav.Link>Contact</Nav.Link>
             </LinkContainer>
+            <LinkContainer to="/privacyPolicy">
+              <Nav.Link>Privacy Policy</Nav.Link>
+            </LinkContainer>
           </Nav>
         </Navbar.Collapse>
       </Container>
