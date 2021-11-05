@@ -1,0 +1,38 @@
+{
+  "packageId": "io.github.ankittyagi206.twa",
+  "host": "ankittyagi206.github.io",
+  "name": "Simplify App",
+  "launcherName": "Simplify App",
+  "display": "fullscreen",
+  "themeColor": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": true,
+  "startUrl": "/simplifyApp/",
+  "iconUrl": "https://ankittyagi206.github.io/simplifyApp/icon-512.png",
+  "maskableIconUrl": "https://ankittyagi206.github.io/simplifyApp/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:\\Users\\ankit\\Desktop\\Project\\simplify\\simplifyApp\\android.keystore",
+    "alias": "simplifyApp"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://ankittyagi206.github.io/simplifyApp/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "appVersion": "1"
+}

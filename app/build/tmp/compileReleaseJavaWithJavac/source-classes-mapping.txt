@@ -1,0 +1,8 @@
+io/github/ankittyagi206/twa/BuildConfig.java
+ io.github.ankittyagi206.twa.BuildConfig
+io/github/ankittyagi206/twa/DelegationService.java
+ io.github.ankittyagi206.twa.DelegationService
+io/github/ankittyagi206/twa/LauncherActivity.java
+ io.github.ankittyagi206.twa.LauncherActivity
+io/github/ankittyagi206/twa/Application.java
+ io.github.ankittyagi206.twa.Application
