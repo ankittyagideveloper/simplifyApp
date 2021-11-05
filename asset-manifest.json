@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/simplifyApp/static/css/main.d6b4db8f.chunk.css",
-    "main.js": "/simplifyApp/static/js/main.6780ae36.chunk.js",
-    "main.js.map": "/simplifyApp/static/js/main.6780ae36.chunk.js.map",
+    "main.js": "/simplifyApp/static/js/main.769919f6.chunk.js",
+    "main.js.map": "/simplifyApp/static/js/main.769919f6.chunk.js.map",
     "runtime-main.js": "/simplifyApp/static/js/runtime-main.b39165a1.js",
     "runtime-main.js.map": "/simplifyApp/static/js/runtime-main.b39165a1.js.map",
     "static/css/2.44325718.chunk.css": "/simplifyApp/static/css/2.44325718.chunk.css",
-    "static/js/2.ae95fbd3.chunk.js": "/simplifyApp/static/js/2.ae95fbd3.chunk.js",
-    "static/js/2.ae95fbd3.chunk.js.map": "/simplifyApp/static/js/2.ae95fbd3.chunk.js.map",
+    "static/js/2.401b8e7b.chunk.js": "/simplifyApp/static/js/2.401b8e7b.chunk.js",
+    "static/js/2.401b8e7b.chunk.js.map": "/simplifyApp/static/js/2.401b8e7b.chunk.js.map",
     "static/js/3.4f97581f.chunk.js": "/simplifyApp/static/js/3.4f97581f.chunk.js",
     "static/js/3.4f97581f.chunk.js.map": "/simplifyApp/static/js/3.4f97581f.chunk.js.map",
     "index.html": "/simplifyApp/index.html",
@@ -15,15 +15,15 @@
     "service-worker.js.map": "/simplifyApp/service-worker.js.map",
     "static/css/2.44325718.chunk.css.map": "/simplifyApp/static/css/2.44325718.chunk.css.map",
     "static/css/main.d6b4db8f.chunk.css.map": "/simplifyApp/static/css/main.d6b4db8f.chunk.css.map",
-    "static/js/2.ae95fbd3.chunk.js.LICENSE.txt": "/simplifyApp/static/js/2.ae95fbd3.chunk.js.LICENSE.txt",
+    "static/js/2.401b8e7b.chunk.js.LICENSE.txt": "/simplifyApp/static/js/2.401b8e7b.chunk.js.LICENSE.txt",
     "static/media/Contact.5166a0ee.jpg": "/simplifyApp/static/media/Contact.5166a0ee.jpg",
     "static/media/icon-512.ceb132a7.png": "/simplifyApp/static/media/icon-512.ceb132a7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b39165a1.js",
     "static/css/2.44325718.chunk.css",
-    "static/js/2.ae95fbd3.chunk.js",
+    "static/js/2.401b8e7b.chunk.js",
     "static/css/main.d6b4db8f.chunk.css",
-    "static/js/main.6780ae36.chunk.js"
+    "static/js/main.769919f6.chunk.js"
   ]
 }
