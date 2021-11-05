@@ -2,6 +2,7 @@
   "packageId": "io.github.ankittyagi206.twa",
   "host": "ankittyagi206.github.io",
   "name": "Simplify App",
+  "short_name": "Simplify App",
   "launcherName": "Simplify App",
   "display": "fullscreen",
   "themeColor": "#000000",
